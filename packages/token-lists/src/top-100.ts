@@ -25,11 +25,12 @@ interface BitqueryEntity {
 const blacklist: string[] = [
   // List of default tokens to exclude
   "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c", // WBNB
-  "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82", // CAKE
+  "0x031f7e8a0f17746f797cb4f7c0f18e99dee2aa96", // SNPR
   "0xe9e7cea3dedca5984780bafc599bd69add087d56", // BUSD
   "0x55d398326f99059fF775485246999027B3197955", // USDT
   "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c", // BTCB
   "0x2170ed0880ac9a755fd29b2688956bd959f933f8", // ETH
+  "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82", // CAKE
   "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51", // BUNNY
   "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63", // XVS
   "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3", // SAFEMOON
